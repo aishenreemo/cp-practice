@@ -1,0 +1,7 @@
+-I./inc/
+-Wall
+-O3
+-march=native
+-Wall
+-lSDL2
+-lm
